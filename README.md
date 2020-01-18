@@ -26,7 +26,7 @@ install it with the command-line tool [cv](https://github.com/civicrm/cv).
 
 ```bash
 cd <extension-dir>
-cv dl au.com.agileware.xerotweaks@https://github.com/agileware/au.com.agileware.xerotweaks/archive/1.0.0.zip
+cv dl au.com.agileware.xerotweaks@https://github.com/agileware/au.com.agileware.xerotweaks/archive/master.zip
 ```
 
 ## Installation (CLI, Git)
