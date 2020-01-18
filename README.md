@@ -11,13 +11,13 @@ The extension is licensed under [AGPL-3.0](LICENSE.txt).
 ## Requirements
 
 * PHP v5.6+
-* CiviCRM 5.0
+* CiviCRM 5.x
 * [Civixero extension](https://github.com/eileenmcnaughton/nz.co.fuzion.civixero)
 * [Accountsync extension](https://github.com/eileenmcnaughton/nz.co.fuzion.accountsync)
 
 ## Installation (Web UI)
 
-[Download the extension](https://github.com/agileware/au.com.agileware.xerotweaks/archive/1.0.0.zip), and extract into your custom extensions directory, then enable via the Extensions admin page (normally via Administer » System Settings » Extensions)
+[Download the extension](https://github.com/agileware/au.com.agileware.xerotweaks/archive/master.zip), and extract into your custom extensions directory, then enable via the Extensions admin page (normally via Administer » System Settings » Extensions)
 
 ## Installation (CLI, Zip)
 
@@ -43,3 +43,21 @@ cv en xerotweaks
 
 After Civixero has been set up, just enable this extension
 
+About the Authors
+-----------------
+
+This CiviCRM extension was developed by the team at [Agileware](https://agileware.com.au).
+
+[Agileware](https://agileware.com.au) provide a range of CiviCRM services
+including:
+
+  * CiviCRM migration
+  * CiviCRM integration
+  * CiviCRM extension development
+  * CiviCRM support
+  * CiviCRM hosting
+  * CiviCRM remote training services
+
+Support your Australian [CiviCRM](https://civicrm.org) developers, [contact Agileware](https://agileware.com.au/contact) today!
+
+![Agileware](logo/agileware-logo.png)
