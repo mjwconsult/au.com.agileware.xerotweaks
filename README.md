@@ -1,4 +1,4 @@
-# CiviCRM Xero Tweaks extension
+# Xero Tweaks
 
 Some common tweaks for CiviCRM Xero integration.
 
@@ -6,7 +6,7 @@ Some common tweaks for CiviCRM Xero integration.
 * Include additional address lines in the contact address.
 * Remove the Contact's name from the Invoice Reference and Line items.
 
-The extension is licensed under [AGPL-3.0](LICENSE.txt).
+The extension is licensed [AGPL-3.0](LICENSE.txt).
 
 ## Requirements
 
@@ -48,8 +48,7 @@ About the Authors
 
 This CiviCRM extension was developed by the team at [Agileware](https://agileware.com.au).
 
-[Agileware](https://agileware.com.au) provide a range of CiviCRM services
-including:
+[Agileware](https://agileware.com.au) provide a range of CiviCRM services including:
 
   * CiviCRM migration
   * CiviCRM integration
